@@ -149,6 +149,8 @@ stage('Deploy') {
 ngrok http 8080
 ```
 
+<img width="1166" height="63" alt="Screenshot 2025-12-16 150553" src="https://github.com/user-attachments/assets/be924e4c-edd9-4b1a-b2e2-2849745b55dd" />
+
 ### 4. Configuration du Webhook GitHub
 
 1. Aller dans les **Settings** du repository GitHub
@@ -167,6 +169,9 @@ Le **Stage View** dans Jenkins permet de visualiser :
 - 🔴 **Échec** - Étapes en erreur (rouge)
 - 🟡 **En cours** - Étapes en exécution (jaune)
 - ⏱️ **Durée** - Temps d'exécution de chaque étape
+
+<img width="1919" height="701" alt="Screenshot 2025-12-16 150743" src="https://github.com/user-attachments/assets/5576e12b-104e-4577-a013-49fda8d3a630" />
+
 
 ---
 
